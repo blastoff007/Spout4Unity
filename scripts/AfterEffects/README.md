@@ -5,6 +5,9 @@ de chaque fenetre a partir des masques d'un calque PNG.
 
 ## Installation
 
+Si le telechargement direct du `.jsx` est refuse par votre navigateur, telecharger
+`MappingBlinker.jsx.txt` puis renommer le fichier en `MappingBlinker.jsx`.
+
 Copier `MappingBlinker.jsx` dans :
 
 - `After Effects/Scripts/` (execution via Fichier > Scripts), ou
